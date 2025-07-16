@@ -20,7 +20,7 @@
         <td>Building a secure network</td>
         <td></td>
         <td></td>
-        <td><a href="#">Network</a></td>
+        <td><a href="https://github.com/prsilvaa/SecuringNetwork">Network</a></td>
     </tr>
   <tr>
         <td>Administering a Server</td>
