@@ -29,10 +29,10 @@
         <td><a href="https://github.com/prsilvaa/Server_Administration/blob/main/README.md">Server</a></td>
     </tr>
   <tr>
-        <td>Client Operating System </td>
-        <td></td>
-        <td></td>
-        <td><a href="#">COS</a></td>
+        <td>Managing Client Operating System </td>
+        <td>OS installation, Resource management, Hardware troubleshooting, Performance tuning, Network setup, Security configuration</td>
+        <td>Windows OS, PowerShell scripts, Group Policy, Disk Management, Firewall setup</td>
+        <td><a href="https://github.com/prsilvaa/client_operating_system/blob/main/README.md">COS</a></td>
     </tr>
   <tr>
         <td>Network Miner</td>
