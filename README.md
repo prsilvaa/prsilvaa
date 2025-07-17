@@ -26,7 +26,7 @@
         <td>Server Administration</td>
         <td>Server setup, User management, Network configuration, Task automation</td>
         <td>Windows Server, PowerShell, Active Directory, Group Policy</td>
-        <td><a href="#">Server</a></td>
+        <td><a href="https://github.com/prsilvaa/Server_Administration/blob/main/README.md">Server</a></td>
     </tr>
   <tr>
         <td>Client Operating System </td>
