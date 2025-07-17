@@ -23,10 +23,10 @@
         <td><a href="https://github.com/prsilvaa/SecuringNetwork">Network</a></td>
     </tr>
   <tr>
-        <td>Administering a Server</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">Active Directory</a></td>
+        <td>Server Administration</td>
+        <td>Server setup, User management, Network configuration, Task automation</td>
+        <td>Windows Server, PowerShell, Active Directory, Group Policy</td>
+        <td><a href="#">Server</a></td>
     </tr>
   <tr>
         <td>Client Operating System </td>
