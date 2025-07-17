@@ -35,6 +35,12 @@
         <td><a href="https://github.com/prsilvaa/client_operating_system/blob/main/README.md">COS</a></td>
     </tr>
   <tr>
+        <td>Managing a Web Server</td>
+        <td>Server Setup, Security, Web Hosting, Database</td>
+        <td>Linux, Apache2, MariaDB, Wordpress, PHP</td>
+        <td><a href="https://github.com/prsilvaa/web_server">Web Server</a></td>
+    </tr>
+  <tr>
         <td>Network Miner</td>
         <td></td>
         <td></td>
@@ -56,7 +62,7 @@
         <td>Managing a Web Server</td>
         <td></td>
         <td></td>
-        <td><a href="#">WS</a></td>
+        <td><a href="https://github.com/prsilvaa/web_server">WS</a></td>
     </tr>
   <tr>
         <td>Cloud Computing</td>
