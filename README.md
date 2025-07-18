@@ -32,13 +32,19 @@
         <td>Managing Client Operating System </td>
         <td>OS installation, Resource management, Hardware troubleshooting, Performance tuning, Network setup, Security configuration</td>
         <td>Windows OS, PowerShell scripts, Group Policy, Disk Management, Firewall setup</td>
-        <td><a href="https://github.com/prsilvaa/client_operating_system/blob/main/README.md">COS</a></td>
+        <td><a href="https://github.com/prsilvaa/client_operating_system/blob/main/README.md">Client OS</a></td>
     </tr>
   <tr>
         <td>Managing a Web Server</td>
         <td>Server Setup, Security, Web Hosting, Database</td>
         <td>Linux, Apache2, MariaDB, Wordpress, PHP</td>
         <td><a href="https://github.com/prsilvaa/web_server">Web Server</a></td>
+    </tr>
+  <tr>
+        <td>Ethical Hacking</td>
+        <td></td>
+        <td></td>
+        <td><a href="#">Metasploit</a></td>
     </tr>
   <tr>
         <td>Network Miner</td>
@@ -58,13 +64,7 @@
         <td></td>
         <td><a href="#">DF</a></td>
     </tr>
-  <tr>
-        <td>Managing a Web Server</td>
-        <td></td>
-        <td></td>
-        <td><a href="https://github.com/prsilvaa/web_server">WS</a></td>
-    </tr>
-  <tr>
+    <tr>
         <td>Cloud Computing</td>
         <td></td>
         <td></td>
@@ -76,12 +76,7 @@
         <td></td>
         <td><a href="#">CA</a></td>
     </tr>
-  <tr>
-        <td>Ethical Hacking</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">Metasploit</a></td>
-    </tr>
+  
   <tr>
         <td>Linux</td>
         <td></td>
