@@ -26,13 +26,13 @@
         <td>Server Administration</td>
         <td>Server setup, User management, Network configuration, Task automation</td>
         <td>Windows Server, PowerShell, Active Directory, Group Policy</td>
-        <td><a href="https://github.com/prsilvaa/Server_Administration/blob/main/README.md">Server</a></td>
+        <td><a href="https://github.com/prsilvaa/Server_Administration">Server</a></td>
     </tr>
   <tr>
         <td>Managing Client Operating System </td>
         <td>OS installation, Resource management, Hardware troubleshooting, Performance tuning, Network setup, Security configuration</td>
         <td>Windows OS, PowerShell scripts, Group Policy, Disk Management, Firewall setup</td>
-        <td><a href="https://github.com/prsilvaa/client_operating_system/blob/main/README.md">Client OS</a></td>
+        <td><a href="https://github.com/prsilvaa/client_operating_system">Client OS</a></td>
     </tr>
   <tr>
         <td>Managing a Web Server</td>
@@ -56,7 +56,7 @@
         <td>Digital Forensics </td>
         <td>Evidence handling, analysis, reporting</td>
         <td>Forensic tools, write blockers</td>
-        <td><a href="https://github.com/prsilvaa/digital_forensic">Digital Forensic</a></td>
+        <td><a href="https://github.com/prsilvaa/digital_forensics">Digital Forensic</a></td>
     </tr>
   <tr>
         <td>Network Miner</td>
