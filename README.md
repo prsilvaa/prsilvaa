@@ -64,58 +64,7 @@
         <td>Python interpreter, Visual Studio Code</td>
         <td><a href="https://github.com/prsilvaa/python">Python</a></td>
     </tr>
-  <tr>
-        <td>Network Miner</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">NM</a></td>
-    </tr>
-  <tr>
-        <td>Rhino Hunt</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">Rhino</a></td>
-    </tr>
-    <tr>
-        <td>Computer Architecture </td>
-        <td></td>
-        <td></td>
-        <td><a href="#">CA</a></td>
-    </tr>
-  
-  <tr>
-        <td>Linux</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">Linux</a></td>
-    </tr>
-  
-</table>
-
-<h2>Certifications</h2>
-<p>List your certifications and the ones you plan to do!</p>
-<table border="1">
-    <tr>
-        <th>Certification</th>
-        <th>Completed?</th>
-        <th>Link</th>
-    </tr>
-    <tr>
-        <td>Cisco CCNA 1</td>
-        <td>31/05/2023 </td>
-        <td><a href="#">View</a></td>
-    </tr>
-  <tr>
-        <td>Cisco CCNA 2</td>
-        <td>31/05/2024 </td>
-        <td><a href="#">View</a></td>
-    </tr>
-  <tr>
-        <td>Cisco CCNA 3</td>
-        <td>31/05/2025 </td>
-        <td><a href="#">View</a></td>
-    </tr>
-</table>
+  </table>
 
 <p>Contact: moreira.priscilar@gmail.com</p>
 
