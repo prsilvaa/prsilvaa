@@ -59,6 +59,12 @@
         <td><a href="https://github.com/prsilvaa/digital_forensics">Digital Forensic</a></td>
     </tr>
   <tr>
+        <td>Python</td>
+        <td>User input handling, List manipulation, Loop control, Menu design</td>
+        <td>Python interpreter, Visual Studio Code</td>
+        <td><a href="https://github.com/prsilvaa/python">Python</a></td>
+    </tr>
+  <tr>
         <td>Network Miner</td>
         <td></td>
         <td></td>
@@ -83,12 +89,7 @@
         <td></td>
         <td><a href="#">Linux</a></td>
     </tr>
-  <tr>
-        <td>Python</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">Python</a></td>
-    </tr>
+  
 </table>
 
 <h2>Certifications</h2>
