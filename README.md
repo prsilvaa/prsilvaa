@@ -53,6 +53,12 @@
         <td><a href="https://github.com/prsilvaa/cloud_computing">AWS</a></td>
     </tr>
   <tr>
+        <td>Digital Forensics </td>
+        <td>Evidence handling, analysis, reporting</td>
+        <td>Forensic tools, write blockers</td>
+        <td><a href="https://github.com/prsilvaa/digital_forensic">Digital Forensic</a></td>
+    </tr>
+  <tr>
         <td>Network Miner</td>
         <td></td>
         <td></td>
@@ -64,13 +70,7 @@
         <td></td>
         <td><a href="#">Rhino</a></td>
     </tr>
-  <tr>
-        <td>Digital Forensics </td>
-        <td></td>
-        <td></td>
-        <td><a href="#">DF</a></td>
-    </tr>
-      <tr>
+    <tr>
         <td>Computer Architecture </td>
         <td></td>
         <td></td>
