@@ -46,6 +46,12 @@
         <td>Kali, Nmap, Metasploit, John the Ripper</td>
         <td><a href="https://github.com/prsilvaa/ethical_hacking">Penetration Testing</a></td>
     </tr>
+    <tr>
+        <td>Cloud Computing</td>
+        <td>Cloud setup and management</td>
+        <td>AWS services, CLI.</td>
+        <td><a href="https://github.com/prsilvaa/cloud_computing">AWS</a></td>
+    </tr>
   <tr>
         <td>Network Miner</td>
         <td></td>
@@ -64,13 +70,7 @@
         <td></td>
         <td><a href="#">DF</a></td>
     </tr>
-    <tr>
-        <td>Cloud Computing</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">AWS</a></td>
-    </tr>
-  <tr>
+      <tr>
         <td>Computer Architecture </td>
         <td></td>
         <td></td>
