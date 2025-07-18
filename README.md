@@ -42,9 +42,9 @@
     </tr>
   <tr>
         <td>Ethical Hacking</td>
-        <td></td>
-        <td></td>
-        <td><a href="#">Metasploit</a></td>
+        <td>Network scanning, Exploitation techniques, Password cracking, Vulnerability assessment</td>
+        <td>Kali, Nmap, Metasploit, John the Ripper</td>
+        <td><a href="https://github.com/prsilvaa/ethical_hacking">Penetration Testing</a></td>
     </tr>
   <tr>
         <td>Network Miner</td>
