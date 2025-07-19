@@ -17,49 +17,49 @@
         <th>Link</th>
     </tr>
     <tr>
-        <td>Building a secure network</td>
+        <td><strong>Building a secure network</strong></td>
         <td>Network Security, Identity and Access Management, Troubleshooting, Documentation & Reporting </td>
         <td>Cisco Packet tracer, Windows Server, Putty</td>
         <td><a href="https://github.com/prsilvaa/SecuringNetwork">Network</a></td>
     </tr>
   <tr>
-        <td>Server Administration</td>
+        <td><strong>Server Administration</strong></td>
         <td>Server setup, User management, Network configuration, Task automation</td>
         <td>Windows Server, PowerShell, Active Directory, Group Policy</td>
         <td><a href="https://github.com/prsilvaa/Server_Administration">Server</a></td>
     </tr>
   <tr>
-        <td>Managing Client Operating System </td>
+        <td><strong>Managing Client Operating System</strong></td>
         <td>OS installation, Resource management, Hardware troubleshooting, Performance tuning, Network setup, Security configuration</td>
         <td>Windows OS, PowerShell scripts, Group Policy, Disk Management, Firewall setup</td>
         <td><a href="https://github.com/prsilvaa/client_operating_system">Client OS</a></td>
     </tr>
   <tr>
-        <td>Managing a Web Server</td>
+        <td><strong>Managing a Web Server</strong></td>
         <td>Server Setup, Security, Web Hosting, Database</td>
         <td>Linux, Apache2, MariaDB, Wordpress, PHP</td>
         <td><a href="https://github.com/prsilvaa/web_server">Web Server</a></td>
     </tr>
   <tr>
-        <td>Ethical Hacking</td>
+        <td><strong>Ethical Hacking</strong></td>
         <td>Network scanning, Exploitation techniques, Password cracking, Vulnerability assessment</td>
         <td>Kali, Nmap, Metasploit, John the Ripper</td>
         <td><a href="https://github.com/prsilvaa/ethical_hacking">Penetration Testing</a></td>
     </tr>
     <tr>
-        <td>Cloud Computing</td>
+        <td><strong>Cloud Computing</strong></td>
         <td>Cloud setup and management</td>
         <td>AWS services, CLI.</td>
         <td><a href="https://github.com/prsilvaa/cloud_computing">AWS</a></td>
     </tr>
   <tr>
-        <td>Digital Forensics </td>
+        <td><strong>Digital Forensics</strong></td>
         <td>Evidence handling, analysis, reporting</td>
         <td>Forensic tools, write blockers</td>
         <td><a href="https://github.com/prsilvaa/digital_forensics">Digital Forensic</a></td>
     </tr>
   <tr>
-        <td>Python</td>
+        <td><strong>Python</strong></td>
         <td>User input handling, List manipulation, Loop control, Menu design</td>
         <td>Python interpreter, Visual Studio Code</td>
         <td><a href="https://github.com/prsilvaa/python">Python</a></td>
