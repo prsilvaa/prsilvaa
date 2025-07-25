@@ -19,7 +19,7 @@
     <tr>
         <td><strong>Building a secure network</strong></td>
         <td>Network Security, Identity and Access Management, Troubleshooting, Documentation & Reporting </td>
-        <td>Cisco Packet tracer, Windows Server, Putty</td>
+        <td>Cisco Packet tracer, Windows Server, Putty, Kali linux, Wireshark</td>
         <td><a href="https://github.com/prsilvaa/SecuringNetwork">Network</a></td>
     </tr>
   <tr>
