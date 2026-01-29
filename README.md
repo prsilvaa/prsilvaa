@@ -22,6 +22,12 @@
         <td>Cisco Packet tracer, Windows Server, Putty, Kali linux, Wireshark</td>
         <td><a href="https://github.com/prsilvaa/SecuringNetwork">Network</a></td>
     </tr>
+    <tr>
+        <td><strong>Botnet Analysis & IDS Detection</strong></td>
+        <td>Botnet traffic analysis, Network monitoring, IDS rule creation, Malware behaviour analysis, Python socket programming</td>
+        <td>Linux, Snort IDS, Wireshark, Python, Virtual Machines</td>
+        <td><a href="https://github.com/prsilvaa/botnet-analysis-and-ids-detection">Botnet IDS</a></td>
+    </tr>
   <tr>
         <td><strong>Server Administration</strong></td>
         <td>Server setup, User management, Network configuration, Task automation</td>
