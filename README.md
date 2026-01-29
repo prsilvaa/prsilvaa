@@ -59,10 +59,10 @@
         <td><a href="https://github.com/prsilvaa/ethical_hacking">Penetration Testing</a></td>
     </tr>
     <tr>
-        <td><strong>Cloud Computing</strong></td>
-        <td>Cloud setup and management</td>
-        <td>AWS services, CLI.</td>
-        <td><a href="https://github.com/prsilvaa/cloud_computing">AWS</a></td>
+        <td><strong>AWS Security & Server Infrastructure</strong></td>
+        <td>Server setup, Security configuration, SSH/RDP access, Web server deployment, Python automation</td>
+        <td>AWS EC2, Amazon Linux, Windows Server 2022, Boto3, Security Groups</td>
+        <td><a href="https://github.com/prsilvaa/AWS_Lab">AWS Lab</a></td>
     </tr>
     <tr>
         <td><strong>Digital Forensics</strong></td>
