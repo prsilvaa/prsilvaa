@@ -66,8 +66,8 @@
     </tr>
   <tr>
         <td><strong>Python</strong></td>
-        <td>User input handling, List manipulation, Loop control, Menu design</td>
-        <td>Python interpreter, Visual Studio Code</td>
+        <td>PCAP parsing, Network traffic analysis, Data extraction, Visualisation, Anomaly detection</td>
+        <td>Python, Scapy, NetworkX, Matplotlib</td>
         <td><a href="https://github.com/prsilvaa/python">Python</a></td>
     </tr>
 
