@@ -5,7 +5,7 @@
 <h1> <a href="www.linkedin.com/in/priscila-ribas-da-silva-89025a15a">Cyber Security Portfolio</a></h1>
 
 <p>
-    Hi, I’m Priscila. I recently completed my HND in Cyber Security, Networking, and Digital Forensics, achieving an A grade. One of my strongest skills is problem solving and troubleshooting, which I’ve applied both in my studies and in my previous job, where I consistently delivered great results. What excites me about cybersecurity is that there’s always something new to learn, and I’m eager to continue developing my skills and proving my abilities in real-world environments.
+    Hi, I’m Priscila. I’m currently in my third year at Edinburgh Napier University, studying Cyber Security and Digital Forensics. I have strong knowledge and experience in problem-solving and troubleshooting from my previous career, which has helped me consistently deliver results. I was also among the top students in my class, reflecting my dedication and aptitude for this field. What excites me most about cybersecurity is the constant opportunity to learn and tackle new challenges, and I’m eager to continue developing my skills and applying them in real-world environments.
 </p>
 
 <h2>Project Overview</h2>
