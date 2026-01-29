@@ -71,6 +71,12 @@
         <td><a href="https://github.com/prsilvaa/digital_forensics">Digital Forensic</a></td>
     </tr>
     <tr>
+        <td><strong>CentOS 7 Linux Tutorials</strong></td>
+        <td>Linux fundamentals, Shell commands, File management, Administration, Networking, Server setup, SELinux, Apache, Mail services</td>
+        <td>CentOS 7, Shell, vi Editor, Apache, SELinux, Firewall, Networking, Mail</td>
+        <td><a href="https://github.com/prsilvaa/Linux">Linux</a></td>
+    </tr>
+    <tr>
         <td><strong>Python</strong></td>
         <td>PCAP parsing, Network traffic analysis, Data extraction, Visualisation, Anomaly detection</td>
         <td>Python, Scapy, NetworkX, Matplotlib</td>
