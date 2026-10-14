@@ -32,7 +32,7 @@
          <td><strong>Cybersecurity Assessment Tool</strong></td>
          <td>Network scanning, Device vulnerability assessment, Firewall and antivirus checks, Rule-based risk classification, Automated security reporting</td>
          <td>Python, Flask, FastAPI, Network Scanning Tools, Security APIs, JSON</td>
-         <td><a href="https://github.com/prsilvaa/Cyber-tool">Cybersecurity Project</a></td>
+         <td><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Project</a></td>
     </tr>
     <tr>
         <td><strong>Splunk Log Analysis</strong></td>
