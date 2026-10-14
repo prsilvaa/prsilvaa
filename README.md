@@ -5,7 +5,7 @@
 <h1> <a href="www.linkedin.com/in/priscila-ribas-da-silva-89025a15a/">Cyber Security Portfolio</a></h1>
 
 <p>
-    Hi, I’m Priscila. I’m currently in my third year at Edinburgh Napier University, studying Cyber Security and Digital Forensics. I have strong knowledge and experience in problem-solving and troubleshooting from my previous career, which has helped me consistently deliver great results. I was also among the top students in my class, reflecting my dedication and aptitude for this field. What excites me most about cybersecurity is the constant opportunity to learn and tackle new challenges, and I’m eager to continue developing my skills and applying them in real-world environments.
+    Hi, I’m Priscila. I’m currently in my fourth year at Edinburgh Napier University, studying Cyber Security and Digital Forensics. I have strong knowledge and experience in problem-solving and troubleshooting from my previous career, which has helped me consistently deliver great results. I was also among the top students in my class, reflecting my dedication and aptitude for this field. What excites me most about cybersecurity is the constant opportunity to learn and tackle new challenges, and I’m eager to continue developing my skills and applying them in real-world environments.
 </p>
 
 <h2>Project Overview</h2>
@@ -28,12 +28,12 @@
         <td>Linux, Snort IDS, Wireshark, Python, Virtual Machines</td>
         <td><a href="https://github.com/prsilvaa/botnet-analysis-and-ids-detection">Botnet IDS</a></td>
     </tr>
-     <tr>
-         <td><strong>Cybersecurity Assessment Tool</strong></td>
-         <td>Network scanning, Device vulnerability assessment, Firewall and antivirus checks, Rule-based risk classification, Automated security reporting</td>
-         <td>Python, Flask, FastAPI, Network Scanning Tools, Security APIs, JSON</td>
-         <td><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Project</a></td>
-    </tr>
+    <tr>
+        <td><strong>Cybersecurity Tool</strong></td>
+        <td>Project Management, Device Vulnerability Assessment, Firewall and Antivirus Checks, Rule-Based Risk Classification, Security Report Generation</td>
+       <td>Python, Flask, Operating System Security Checks</td>
+       <td><a href="https://github.com/prsilvaa/Cybersecurity-Project">Cybersecurity Tool</a></td>
+  </tr>
     <tr>
         <td><strong>Splunk Log Analysis</strong></td>
         <td>Log parsing, SPL queries, Data visualisation, Web transaction analysis, Security and business insight</td>
