@@ -67,7 +67,7 @@
     <tr>
         <td><strong>AWS Security & Server Infrastructure</strong></td>
         <td>Server setup, Security configuration, SSH/RDP access, Web server deployment, Python automation</td>
-        <td>AWS EC2, Amazon Linux, Windows Server 2022, Boto3, Security Groups</td>
+        <td>AWS EC2, Amazon Linux, Windows Server 2022, Security Groups</td>
         <td><a href="https://github.com/prsilvaa/Cloud_computing">AWS</a></td>
     </tr>
     <tr>
