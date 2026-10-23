@@ -88,13 +88,7 @@
         <td>Python, Scapy, NetworkX, Matplotlib</td>
         <td><a href="https://github.com/prsilvaa/python">Python</a></td>
     </tr>
-    <tr>
-        <td><strong>Java</strong></td>
-        <td>Java OOP, ArrayList, Scanner input, input validation, debugging</td>
-        <td>Java JDK 17, Visual Studio Code, PowerShell </td>
-        <td><a href="https://github.com/prsilvaa/Java-Project">Java</a></td>
-    </tr>
-    
+        
 </table>
 
 <p>Contact: moreira.priscilar@gmail.com</p>
